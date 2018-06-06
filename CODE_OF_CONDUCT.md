@@ -24,7 +24,7 @@ By participating in the gender pay gap hack, all attendees, speakers, sponsors, 
 
 **Reporting**
 
-If you are being harassed, notice that someone else is being harassed, or experience or witness any violation of this code of conduct, please contact THESE ORGANISERS immediately.  You may ask a volunteer to find them for you. You can also email us at karadelamarck@gmail.com & stephanie@ellpha.com. 
+If you are being harassed, notice that someone else is being harassed, or experience or witness any violation of this code of conduct, please contact the organisers immediately.  You may ask a volunteer to find them for you. You can also email us at genderpaygaphack2018@gmail.com. 
 
 Thanks to EPIC, Geek Feminism, O’Reilly Media, and Ubuntu, whose Codes of Conduct informed ours.
 
