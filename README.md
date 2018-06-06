@@ -4,3 +4,5 @@ The Gender Pay Gap Hack is a UK-based collaboration between the [AI Club for Gen
 
 
 The UK government has a [beta service for searching the gender pay gap data](https://gender-pay-gap.service.gov.uk/). 
+
+Latest tweets on [Twitter](https://twitter.com/search?f=tweets&vertical=news&q=%23GenderPayGap&src=typd)
